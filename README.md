@@ -14,7 +14,7 @@
 
 IP <51.250.81.235>
 
-Frontend https://api.zhukoffdmi.nomoreparties.co
+Frontend https://zhukoffdmi.nomoreparties.co
 
 Backend https://api.zhukoffdmi.nomoreparties.co
 
